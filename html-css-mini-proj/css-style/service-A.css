@@ -1,0 +1,260 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#service-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 80px;
+}
+
+/* LEFT */
+
+#left-service {
+  background-color: white;
+  width: 776px;
+  height: 714px;
+  position: relative;
+}
+
+.bg1 img {
+  width: 450px;
+  height: 500px;
+  left: 50px;
+  top: 60px;
+  position: relative;
+}
+.bg2 img {
+  width: 452px;
+  height: 513px;
+  margin: 50px;
+  top: -7px;
+  left: -33px;
+  position: absolute;
+}
+.dots img {
+  width: 249px;
+  height: 318px;
+  top: 328px;
+  left: 128px;
+  position: absolute;
+}
+/*user section*/
+#elementsFrames {
+  position: absolute;
+}
+#user {
+  top: -154px;
+  left: 65px;
+  width: 37%;
+  height: 50%;
+  margin: 5px 5px 5px -20px;
+  padding: 15px 5px 15px 0px;
+  border-radius: 8px;
+  background: white;
+  position: absolute;
+  box-shadow: 0 12px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.user-text h3 {
+  font-weight: bold;
+}
+.user-text h4 {
+  color: var(--text-color);
+  font-size: 11px;
+}
+.location h4 {
+  padding-left: 6px;
+  margin-top: -3px;
+}
+
+.user-picture img {
+  margin-left: auto;
+  margin-right: auto;
+}
+.user-text {
+  margin-left: 33px;
+}
+.location {
+  padding: 5px;
+  margin: 9px;
+  margin-left: -6px;
+  display: flex;
+}
+button h4 {
+  background-color: var(--button-color);
+  color: white;
+  padding: 5px 20px;
+  border-radius: 5px;
+  margin-left: 22px;
+}
+/* pro-tip section*/
+#pro-tip {
+  position: relative;
+  top: -465px;
+  left: 176px;
+  padding: 33px;
+  width: 400.63px;
+  height: 503.93px;
+  background-color: white;
+
+  border-radius: 8px;
+  box-shadow: 0 50px 30px 0 rgb(0 0 0 / 15%);
+}
+#pro-tip h1 {
+  font-weight: bold;
+  margin-top: 55px;
+  font-size: 21px;
+  line-height: 105%;
+}
+.See-jobs {
+  padding: 9px;
+  width: 56%;
+  margin-top: -73px;
+  margin-left: 28px;
+  display: flex;
+}
+
+.See-jobs h4 {
+  background-color: white;
+  padding: 8px 19px;
+  border-radius: 20px;
+}
+#box-Nerte-Gronw {
+  display: flex;
+  justify-content: space-between;
+}
+.miniBox-Nerte-Gronw {
+  display: flex;
+  margin-top: 20px;
+}
+h3 {
+  margin-top: 6px;
+  padding-left: 11px;
+  font-size: 0.9em;
+  font-weight: bold;
+}
+.Time {
+  margin-top: 26px;
+  font-size: 0.8em;
+  color: var(--text-color);
+}
+/*happy-family section*/
+#happy-family {
+  width: 286.29px;
+  height: 135px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 17px 20px 0 rgba(0, 0, 0, 25%);
+  position: relative;
+  top: -346px;
+  left: 456px;
+  color: var(--text-color);
+}
+#happy-family-text {
+  padding-left: 30px;
+  padding-top: 20px;
+}
+.circles {
+  display: flex;
+  padding-left: 26px;
+  padding-top: 14px;
+}
+.happy-family-circle {
+  background-color: #c8c4c4;
+  width: 45px;
+  height: 45px;
+  border-radius: 100%;
+  padding: 27px;
+  margin-left: -7px;
+}
+.happyFamilyLast {
+  background-color: var(--primary-color);
+}
+.happyFamilyLast h4 {
+  margin: -11px;
+  color: white;
+}
+/* RIGHT */
+
+#right-service {
+  background-color: white;
+  width: 574px;
+  height: 799.96px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#service-text-title-right {
+  font-family: var(--heading-font);
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 50px;
+  display: flex;
+  position: relative;
+  z-index: 1;
+}
+
+#service-highlight {
+  background-color: var(--primary-color);
+  opacity: 0.7;
+  width: 127.99px;
+  height: 20px;
+  position: absolute;
+  left: 191px;
+  bottom: 0;
+  z-index: -1;
+}
+
+.right-card {
+  width: 574px;
+  height: 133px;
+  background-color: white;
+  box-shadow: 0px 30px 80px rgba(0, 0, 0, 0.07);
+  margin-bottom: 10px;
+  border-radius: 8px;
+  border: 1px #ededed solid;
+  display: flex;
+}
+.rightCardWithShadow {
+  box-shadow: 0px 30px 80px 10px rgb(0 0 0 / 20%);
+}
+
+.box-service-circle {
+  width: 56px;
+  height: 56px;
+  background: white;
+  border-radius: 50%;
+  box-shadow: 2px 10px 25px 5px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 14px;
+  margin-top: 30px;
+  padding: 19px;
+}
+.icon1 {
+  width: 20px;
+  height: 20px;
+}
+.icon2 {
+  width: 15px;
+  height: 15px;
+}
+.box-card-text {
+  margin-left: 17px;
+  margin-top: 30px;
+}
+.box-card-text h3 {
+  font-weight: bold;
+}
+.box-card-text p {
+  color: var(--text-color);
+}
+.four-cards-right {
+  background-color: rgba(255, 255, 255, 0.09);
+  height: 651.96px;
+}

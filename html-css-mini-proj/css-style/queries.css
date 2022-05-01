@@ -1,0 +1,35 @@
+@media only screen and (max-width: 1330px) {
+  #happy-family {
+    top: -35px;
+    left: 274px;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  #service-container {
+    flex-direction: column;
+  }
+}
+@media only screen and (max-width: 900px) {
+  #left-service {
+    width: 776px;
+    height: 714px;
+  }
+}
+@media only screen and (max-width: 810px) {
+  #left-service {
+    width: 670px;
+  }
+}
+@media only screen and (max-width: 700px) {
+  #left-service {
+    width: 580px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  #left-service {
+    width: 579px;
+  }
+  #right-service {
+    width: 530px;
+  }
+}

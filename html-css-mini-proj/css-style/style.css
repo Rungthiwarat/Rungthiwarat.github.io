@@ -1,0 +1,29 @@
+:root {
+    --primary-color: #ff8345;
+    --secondary-color: hsla(20, 100%, 64%, 0.7);
+    --third-color: hsla(11, 81%, 55%, 0.1);
+    --button-color: hsla(118, 41%, 62%, 1);
+    --heading-tag-color: #183B56;
+    --text-color: #5A7184;
+    --heading-font: 'Poppins', sans-serif;
+    --text-font: 'DM Sans', sans-serif;
+}
+
+a {
+    color: white;
+    border-radius: 10px;
+    font-family: var(--text-font);
+    padding: 1rem 2rem;
+}
+
+.highlight {
+    background: linear-gradient(180deg,rgba(255,255,255,0) 60%, var(--secondary-color) 60%);
+}
+
+.button-orange {
+    background-color: var(--primary-color);
+}
+
+.button-green {
+    background-color: var(--button-color);
+}

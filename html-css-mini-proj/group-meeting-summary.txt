@@ -1,0 +1,18 @@
+สรุปงานภาพรวม
+
+Som - Header , Logos , Cate
+
+A - Services
+
+Korn - Popular Jobs , Testimonial
+
+Nat - Job Seeker , Cta , Footer
+
+ใส่ชื่อหลัง branch ที่ตัวเองทำ
+แตก branch ที่ main ทุกครั้ง
+
+ไฟล์ CSS กลาง ไว้เก็บ Variable กลาง (Font)
+
+Tailwind ใส่กับพวก button หรือ ขอบ 
+
+ส่วนอื่นๆใช้ CSS ปกติ
