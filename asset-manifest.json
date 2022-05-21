@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8bd7a94.css",
+    "main.js": "/static/js/main.ce65ce19.js",
+    "static/js/787.60cd46a9.chunk.js": "/static/js/787.60cd46a9.chunk.js",
+    "static/media/giftBackground2.jpg": "/static/media/giftBackground2.f97e8db21114f370f38a.jpg",
+    "static/media/giftBackground1.jpg": "/static/media/giftBackground1.d7170791b15afbba1341.jpg",
+    "static/media/birthday.jpg": "/static/media/birthday.db8dbb5a826b9ffa227f.jpg",
+    "static/media/forHim.jpg": "/static/media/forHim.ae786a1d55d4e776ccd1.jpg",
+    "static/media/birthdayGift.jpg": "/static/media/birthdayGift.b086afbff35df9c4a20e.jpg",
+    "static/media/forHer.jpg": "/static/media/forHer.15c337c18e65a3816a9c.jpg",
+    "static/media/giftsLogo-icon.png": "/static/media/giftsLogo-icon.840098b7daa650b1a954.png",
+    "static/media/HomeIcon.png": "/static/media/HomeIcon.64b3c4145b5904d589dd.png",
+    "static/media/star.png": "/static/media/star.d0cbd94e0a4a62fc2bf4.png",
+    "index.html": "/index.html",
+    "main.c8bd7a94.css.map": "/static/css/main.c8bd7a94.css.map",
+    "main.ce65ce19.js.map": "/static/js/main.ce65ce19.js.map",
+    "787.60cd46a9.chunk.js.map": "/static/js/787.60cd46a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8bd7a94.css",
+    "static/js/main.ce65ce19.js"
+  ]
+}
